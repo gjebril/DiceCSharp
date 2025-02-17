@@ -1,3 +1,4 @@
+modules = ["dotnet-8.0"]
 [nix]
 channel = "stable-24_05"
 
@@ -11,3 +12,7 @@ author = 21671906
 [[workflows.workflow.tasks]]
 task = "shell.exec"
 args = "dotnet run"
+
+[[ports]]
+localPort = 3000
+externalPort = 80

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/home/runner/workspace/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/runner/workspace/wwwroot/style.css",
+      "PackagePath": "staticwebassets/style.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.HelloWorld.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.HelloWorld.props",
+      "PackagePath": "build\\HelloWorld.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HelloWorld.props",
+      "PackagePath": "buildMultiTargeting\\HelloWorld.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HelloWorld.props",
+      "PackagePath": "buildTransitive\\HelloWorld.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
